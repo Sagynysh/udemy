@@ -13,6 +13,7 @@ public class SpringHelloApp {
         Coach myCoach = context.getBean("myCoach",Coach.class);
         //call method on the bean
         System.out.println(myCoach.getDAilyWorkout());
+        System.out.println(myCoach.getDAilyFortune());
         //close the context
         context.close();
     }
