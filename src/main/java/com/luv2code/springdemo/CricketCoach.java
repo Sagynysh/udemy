@@ -19,10 +19,6 @@ public class CricketCoach implements Coach{
         return "Criecket can do it! "+fortuneService.getFortune();
     }
 
-    public FortuneService getFortuneService() {
-        return fortuneService;
-    }
-
     public void setFortuneService(FortuneService fortuneService) {
         this.fortuneService = fortuneService;
     }
