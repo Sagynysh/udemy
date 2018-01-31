@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8beac8f0-cbdd-49c4-ad97-52540342f744" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/SetterDemoApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/CricketCoach.java" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/CricketCoach.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/SetterDemoApp.java" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/SetterDemoApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
     </list>
     <ignored path="udemu-demo.iws" />
@@ -42,8 +42,8 @@
       <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5660377">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="28" />
+            <state vertical-scroll-proportion="-3.528302">
+              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -76,14 +76,17 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/CricketCoach.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
               <folding>
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#1017#1018#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,8 +95,8 @@
       <file leaf-file-name="SetterDemoApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/SetterDemoApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32903227">
-              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.38387096">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -137,8 +140,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/BaseballCoach.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/SpringHelloApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/TrackCoach.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/CricketCoach.java" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/CricketCoach.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/SetterDemoApp.java" />
       </list>
     </option>
@@ -763,12 +766,12 @@
       <option name="number" value="Default" />
       <updated>1517203738193</updated>
       <workItem from="1517203739452" duration="5954000" />
-      <workItem from="1517288896830" duration="8076000" />
+      <workItem from="1517288896830" duration="8898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14030000" />
+    <option name="totallyTimeSpent" value="14852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1086" extended-state="0" />
@@ -928,33 +931,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/CricketCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/SpringHelloApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5660377">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -967,10 +947,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.528302">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/CricketCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/SetterDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32903227">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.38387096">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
           <folding />
         </state>
       </provider>

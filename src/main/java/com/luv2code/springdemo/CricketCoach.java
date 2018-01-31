@@ -5,6 +5,8 @@ package com.luv2code.springdemo;
  */
 public class CricketCoach implements Coach{
     private FortuneService fortuneService;
+    private String emailAdddes;
+    private String team;
     public CricketCoach(){
 
     }
@@ -21,5 +23,23 @@ public class CricketCoach implements Coach{
 
     public void setFortuneService(FortuneService fortuneService) {
         this.fortuneService = fortuneService;
+    }
+
+    public void setEmailAdddes(String emailAdddes) {
+        System.out.println("Spring emailAddress setted "+emailAdddes);
+        this.emailAdddes = emailAdddes;
+    }
+
+    public void setTeam(String team) {
+        System.out.println("Spring team setted "+team);
+        this.team = team;
+    }
+
+    public String getEmailAdddes() {
+        return emailAdddes;
+    }
+
+    public String getTeam() {
+        return team;
     }
 }

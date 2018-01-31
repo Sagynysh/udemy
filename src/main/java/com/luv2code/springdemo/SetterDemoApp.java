@@ -8,9 +8,11 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class SetterDemoApp {
     public static void main(String[] args) {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
-        Coach theCoach = context.getBean("myCricketCoach",Coach.class);
+        CricketCoach theCoach = context.getBean("myCricketCoach",CricketCoach.class);
         System.out.println(theCoach.getDAilyWorkout());
         System.out.println(theCoach.getDAilyFortune());
+        System.out.println(theCoach.getEmailAdddes());
+        System.out.println(theCoach.getTeam());
         context.close();
     }
 }
