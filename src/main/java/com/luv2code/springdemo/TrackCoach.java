@@ -22,4 +22,14 @@ public class TrackCoach implements Coach {
     public String getDAilyFortune() {
         return "Just do it! "+fortuneService.getFortune();
     }
+    //add an init method
+    public void doMyStartupStuff(){
+        System.out.println("TrackCoach: do my startup stuff!");
+    }
+
+    //add an destroy method
+    public void doMyDestroyStuff(){
+        System.out.println("TrackCoach: do my destroy stuff!");
+    }
+
 }
